@@ -1,0 +1,1 @@
+Nothing needs to be added to .gitignore since the changes only include a .gitignore file itself and a README.md file, both of which should be tracked in version control.
